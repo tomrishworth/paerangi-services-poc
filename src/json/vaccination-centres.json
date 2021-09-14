@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "name": "vaccination-centres",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.7149128, -36.7319921] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland CBD Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.7632291, -36.8497758] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birkenhead Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.7247724, -36.81095980000001] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henderson Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.6331328, -36.8833807] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manurewa Marae Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.8573225, -37.0252053] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Wellington Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.8227766, -36.9066085] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otara Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.8706227, -36.9594182] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pukekohe Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.9056792, -37.201594] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takanini Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.8904605, -37.0088125] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tāmaki (Glen Innes) Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.8516079, -36.881665] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westgate Vaccination Centre"
+      },
+      "geometry": { "type": "Point", "coordinates": [174.6118132, -36.8228644] }
+    }
+  ]
+}
